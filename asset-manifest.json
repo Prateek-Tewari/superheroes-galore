@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/superheroes-galore/static/css/main.39f1a7e8.chunk.css",
+    "main.js": "/superheroes-galore/static/js/main.17c1193e.chunk.js",
+    "main.js.map": "/superheroes-galore/static/js/main.17c1193e.chunk.js.map",
+    "runtime~main.js": "/superheroes-galore/static/js/runtime~main.27e22b65.js",
+    "runtime~main.js.map": "/superheroes-galore/static/js/runtime~main.27e22b65.js.map",
+    "static/js/2.bdbe9fb0.chunk.js": "/superheroes-galore/static/js/2.bdbe9fb0.chunk.js",
+    "static/js/2.bdbe9fb0.chunk.js.map": "/superheroes-galore/static/js/2.bdbe9fb0.chunk.js.map",
+    "index.html": "/superheroes-galore/index.html",
+    "precache-manifest.6884d6110f040b97ac9b0ca0997720c1.js": "/superheroes-galore/precache-manifest.6884d6110f040b97ac9b0ca0997720c1.js",
+    "service-worker.js": "/superheroes-galore/service-worker.js",
+    "static/css/main.39f1a7e8.chunk.css.map": "/superheroes-galore/static/css/main.39f1a7e8.chunk.css.map",
+    "static/media/cap.jpg": "/superheroes-galore/static/media/cap.1d479916.jpg",
+    "static/media/hulk.jpeg": "/superheroes-galore/static/media/hulk.5ca5b8cc.jpeg",
+    "static/media/ironman.jpg": "/superheroes-galore/static/media/ironman.b9138c43.jpg",
+    "static/media/thor.jpg": "/superheroes-galore/static/media/thor.afa5ba48.jpg",
+    "static/media/widow.jpg": "/superheroes-galore/static/media/widow.0c31e5a4.jpg"
+  }
+}
